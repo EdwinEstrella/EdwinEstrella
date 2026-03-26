@@ -60,14 +60,14 @@
   <!-- GitHub Main Stats -->
   <!-- <span>
     <a href="#">
-      <img width="330" src="https://github-readme-stats.vercel.app/api?username=NSTKrishna&show_icons=true&theme=dark" />
+      <img width="330" src="https://github-readme-stats.vercel.app/api?username=EdwinEstrella_icons=true&theme=dark" />
     </a>
   </span>
 
   <!-- Top Languages -->
   <!-- <span>
     <a href="#">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSTKrishna&layout=compact&theme=dark" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinEstrella&layout=compact&theme=dark" />
     </a>
   </span> -->
 
