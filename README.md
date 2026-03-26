@@ -74,14 +74,14 @@
   <!-- Salesp07 Custom Stats -->
   <span>
     <a href="#">
-      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=NSTKrishna&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" />
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=EdwinEstrella&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" />
     </a>
   </span>
 
   <!-- Streak Stats -->
   <span>
     <a href="#">
-      <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NSTKrishna&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" />
+      <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=EdwinEstrella&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" />
     </a>
   </span>
 
