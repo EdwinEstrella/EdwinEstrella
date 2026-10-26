@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<h1 align="center">❄️ Vibe developer | ✨ Edwin Estrella ✨ | Full Stack & DevOps ❄️</h1>
+<h1 align="center">❄️ ✨ Edwin Estrella ✨ | Full Stack & DevOps Developer ❄️</h1>
 
 <p align="center">
   <img
