@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<h1 align="center">❄️ ✨ Edwin Estrella ✨ | AI Engineer | Full Stack & DevOps ❄️</h1>
+<h1 align="center">❄️ AI Engineer | ✨ Edwin Estrella ✨ | Full Stack & DevOps ❄️</h1>
 
 <p align="center">
   <img
