@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<h1 align="center">❄️ Vibe developer | ✨ Edwin Estrella ✨ | Diseñador ❄️</h1>
+<h1 align="center">❄️ Vibe developer | ✨ Edwin Estrella ✨ | Full Stack & DevOps ❄️</h1>
 
 <p align="center">
   <img
@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  Desarrollo de sistemas escalables · Sistemas distribuidos · Infraestructura en tiempo real
+  Backend · DevOps · Web · Apps móviles · Aplicaciones de escritorio · Infraestructura
 </h3>
 
 <p align="center">
@@ -24,30 +24,49 @@
 
 ### 👋 Sobre mi
 
-- ⚙️ Desarrollador frontend especializado en **sistemas distribuidos**.
-- 🐹 Gran interés en **React**, Next.js y pensamiento a nivel de sistema.
-- 🌐 Construir servicios de **baja latencia** y **tolerantes a fallos**.
-- 🧵 Me encantan los sistemas, el codigo, la consistencia.
-- 📫 Contactame en **info@azokia.com**
+- 💻 Desarrollador **full stack**: diseño y desarrollo de principio a fin, desde la interfaz hasta el servidor.
+- ⚙️ Trabajo en **DevOps**, **backend**, **webs**, **apps móviles** y **sistemas de escritorio**.
+- 🖥️ Apps de escritorio con **Electron** y apps multiplataforma con **Flutter**.
+- 🚢 Despliegues e infraestructura con **Docker**, **Dokploy**, Nginx y Linux.
+- 🌐 Construyo servicios de **baja latencia** y **tolerantes a fallos**.
+- 🧵 Me encantan los sistemas, el código, la consistencia.
+- 📫 Contáctame en **info@azokia.com**
 
 ---
 
-### 🛠 Backend - Frotend & Systems Stack
+### 🛠 Stack
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"/> &ensp; **Things I Build With**
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"/> &ensp; **Con lo que construyo**
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,java,postgres,redis,docker,kubernetes,linux,bash,nginx,cloudflare,prisma,git,github)](https://skillicons.dev)
+**🎨 Frontend & Web**
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,figma)](https://skillicons.dev)
+
+**⚙️ Backend & Bases de datos**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,go,python,graphql,prisma,postgres,mysql,mongodb,redis,supabase,firebase)](https://skillicons.dev)
+
+**📱 Apps móviles & 🖥️ Escritorio**
+
+[![Apps](https://skillicons.dev/icons?i=flutter,dart,electron,androidstudio)](https://skillicons.dev)
+
+**🚀 DevOps & Infraestructura**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,bash,nginx,cloudflare,githubactions,aws,vercel,git,github)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Dokploy" height="28"/>
 
 ---
 
-### 🚀 What I Care About
+### 🚀 Lo que me importa
 
-- Distributed systems fundamentals (CAP, consensus, replication)
-- Event-driven architectures & message queues
-- System design, scaling & failure modes
-- Infrastructure-aware backend engineering
+- Fundamentos de sistemas distribuidos (CAP, consenso, replicación)
+- Arquitecturas orientadas a eventos y colas de mensajes
+- Diseño de sistemas, escalabilidad y modos de fallo
+- CI/CD, contenedores y despliegues automatizados (Docker, Dokploy, GitHub Actions)
+- Productos completos: web, móvil y escritorio con una sola visión de diseño y código
 
 
 <br/>
